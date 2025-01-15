@@ -1,8 +1,9 @@
 {
-  "singleQuote": true,
-  "trailingComma": "all",
-  "useTabs": true,
-  "bracketSameLine": false,
-  "arrowParens": "avoid",
-  "experimentalTernaries": true
+	"singleQuote": true,
+	"trailingComma": "all",
+	"useTabs": true,
+	"bracketSameLine": false,
+	"arrowParens": "avoid",
+	"experimentalTernaries": true,
+	"semi": false
 }

@@ -17,9 +17,7 @@ export class FormatDataInterceptor implements NestInterceptor {
 		return next.handle().pipe(
 			map(value => {
 				return {
-					code: 0,
 					data: value,
-					message: 'success',
 				}
 			}),
 		)
